@@ -2,7 +2,7 @@ package OpenClosedPrinciple;
 
 public interface NotificationService {
 
-    public void sendOTP(String medium);
+    void sendOTP(String medium);
 
-    public void sendTransactionReport(String medium);
+    void sendTransactionReport(String medium);
 }
