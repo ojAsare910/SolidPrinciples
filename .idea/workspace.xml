@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb67beed-7a2e-4d65-80b0-85b5aff70c29" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/InterfaceSegregationPrinciple/PayATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceSegregationPrinciple/PayATM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695029962365</updated>
       <workItem from="1695029963610" duration="1787000" />
-      <workItem from="1695031856421" duration="4483000" />
+      <workItem from="1695031856421" duration="5619000" />
     </task>
     <servers />
   </component>
