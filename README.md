@@ -11,8 +11,10 @@ in a single class mashup the code.
 
 2. Open Closed Principle:<br>
 Classes should be open for extension, closed for modification.
-<br>In other words, you should not have to rewrite an existing class
-for implementing new features.
+In other words, you should not have to rewrite an existing class
+for implementing new features.<br>
+It also states that according to new requirements the module
+should be open for extension but closed for modification.
 <br></br>
 
 3. Liskov Substitution Principle: <br>
